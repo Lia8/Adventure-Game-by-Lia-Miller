@@ -1,0 +1,38 @@
+img {
+    width: 150px;
+    height: 100px;
+    display: none;
+}
+
+body {
+    background-color: pink;
+
+}
+
+.question2 {
+    display: none;
+}
+
+.question3 {
+    display: none;
+}
+
+.answer {
+    display: none;
+}
+
+.Revealfemale {
+    display: none;
+}
+
+.question1 {
+    font-family: 'Chango', cursive;
+}
+
+.question2 {
+    font-family: 'Berkshire Swash', cursive;
+}
+
+.question3 {
+    font-family: 'Waiting for the Sunrise';
+}
